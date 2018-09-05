@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://90myth.github.io/lib/three/package.json</loc>
+    
+    <lastmod>2018-09-05T16:14:31.736Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://90myth.github.io/lib/three/README.html</loc>
+    
+    <lastmod>2018-09-05T16:14:31.733Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://90myth.github.io/2018/09/05/%E5%8D%9A%E5%AE%A2%E5%90%8D/</loc>
     
     <lastmod>2018-09-05T15:51:25.640Z</lastmod>
