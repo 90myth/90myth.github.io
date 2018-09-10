@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.weijijing.cn/2018/09/10/about/</loc>
+    
+    <lastmod>2018-09-10T14:29:55.343Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.weijijing.cn/about/index-1.html</loc>
+    
+    <lastmod>2018-09-10T14:11:56.296Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.weijijing.cn/about/index.html</loc>
+    
+    <lastmod>2018-09-10T14:11:51.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.weijijing.cn/2018/09/05/%E5%8D%9A%E5%AE%A2%E5%90%8D/</loc>
+    
+    <lastmod>2018-09-10T14:08:21.266Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.weijijing.cn/lib/three/package.json</loc>
     
     <lastmod>2018-09-05T16:14:31.736Z</lastmod>
@@ -12,20 +40,6 @@
     <loc>http://www.weijijing.cn/lib/three/README.html</loc>
     
     <lastmod>2018-09-05T16:14:31.733Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.weijijing.cn/2018/09/05/%E5%8D%9A%E5%AE%A2%E5%90%8D/</loc>
-    
-    <lastmod>2018-09-05T15:51:25.640Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.weijijing.cn/2018/09/05/hello-world/</loc>
-    
-    <lastmod>2018-09-05T09:21:50.713Z</lastmod>
     
   </url>
   
