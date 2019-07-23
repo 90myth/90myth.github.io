@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search> 
   
+  
     
     <entry>
       <title>关于本站</title>
       <link href="/2018/09/10/about/"/>
       <url>/2018/09/10/about/</url>
-      <content type="html"><![CDATA[<p>这是基于Github的静态博客，有任何问题联系博主！</p>]]></content>
+      
+        <content type="html"><![CDATA[<p>这是基于Github的静态博客，有任何问题联系博主！</p>]]></content>
+      
       
       
     </entry>
+    
+    
     
     <entry>
       <title>欢迎来到Virgill的博客！</title>
       <link href="/2018/09/05/%E5%8D%9A%E5%AE%A2%E5%90%8D/"/>
       <url>/2018/09/05/%E5%8D%9A%E5%AE%A2%E5%90%8D/</url>
-      <content type="html"><![CDATA[<p> 尊敬的游客，您好！我是本博客的站长Virgill，这个博客只是我利用业余时间写的博客，内容来自个人的日常，您有什么需要交流的可以留言交流，谢谢！</p>]]></content>
+      
+        <content type="html"><![CDATA[<p> 尊敬的游客，您好！我是本博客的站长Virgill，这个博客只是我利用业余时间写的博客，内容来自个人的日常，您有什么需要交流的可以留言交流，谢谢！</p>]]></content>
+      
       
       
     </entry>
+    
     
   
   
